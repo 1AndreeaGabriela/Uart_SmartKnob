@@ -1,0 +1,16 @@
+-T
+"C:/Users/practicant_d1/Downloads/S32K1xx_cookbook-master/S32K1xx_cookbook-master/Examples/S32K118/S32K118_Project_LPUART/Project_Settings/Linker_Files/S32K118_25_flash.ld"
+-Wl,-Map,"S32K118_Project_LPUART.map"
+-Xlinker
+--gc-sections
+-n
+-mcpu=cortex-m0plus
+-specs=ewl_c9x_noio.specs
+--sysroot="C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2"
+"./Project_Settings/Startup_Code/startup.o"
+"./Project_Settings/Startup_Code/startup_S32K118.o"
+"./Project_Settings/Startup_Code/system_S32K118.o"
+"./src/Asrv_App.o"
+"./src/LPUART_S32K11x.o"
+"./src/clocks_and_modes_S32K11x.o"
+"./src/main.o"

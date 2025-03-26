@@ -1,0 +1,12 @@
+-c
+-I"C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/EWL_C/include"
+-I"C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/EWL_C/include/arm"
+-I"C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/EWL_Runtime/include"
+-I"C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/EWL_Runtime/include/arm"
+-I"C:/Users/practicant_d1/Downloads/S32K1xx_cookbook-master/S32K1xx_cookbook-master/Examples/S32K118/S32K118_Project_LPUART/include"
+-x assembler-with-cpp
+-DSTART_FROM_FLASH
+-g3
+-mcpu=cortex-m0plus
+-specs=ewl_c9x_noio.specs
+--sysroot="C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2"

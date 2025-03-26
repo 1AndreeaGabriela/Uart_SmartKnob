@@ -1,0 +1,877 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+                              C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o (exit)
+C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+                              C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o (memset)
+C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+                              C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o) (__fill_mem)
+c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+                              ./Project_Settings/Startup_Code/system_S32K118.o (__aeabi_uidiv)
+c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_divsi3.o)
+                              ./src/main.o (__aeabi_idivmod)
+c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+                              c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+                              C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o (__init_cpp)
+C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+                              C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o) (__destroy_global_chain)
+C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+                              C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o (__copy_rom_sections_to_ram)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+ .data          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+ .bss           0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+ .text.__iar_program_start
+                0x00000000        0x4 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rodata.s_vectors
+                0x00000000        0x4 ./Project_Settings/Startup_Code/startup.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K118.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K118.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K118.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K118.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K118.o
+ .data.SystemCoreClock
+                0x00000000        0x4 ./Project_Settings/Startup_Code/system_S32K118.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xc0 ./Project_Settings/Startup_Code/system_S32K118.o
+ .text.SystemSoftwareReset
+                0x00000000       0x44 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000      0x8c2 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000       0x52 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000       0xa0 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000       0x16 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000       0x10 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000       0x73 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000       0x5e ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000      0x185 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000      0x147 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000       0x9d ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000       0x10 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000      0x15b ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000       0x28 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000       0x58 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000      0x9c9 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x00000000       0x22 ./Project_Settings/Startup_Code/system_S32K118.o
+ .group         0x00000000        0x8 ./src/Asrv_App.o
+ .group         0x00000000        0x8 ./src/Asrv_App.o
+ .group         0x00000000        0x8 ./src/Asrv_App.o
+ .group         0x00000000        0x8 ./src/Asrv_App.o
+ .text          0x00000000        0x0 ./src/Asrv_App.o
+ .data          0x00000000        0x0 ./src/Asrv_App.o
+ .bss           0x00000000        0x0 ./src/Asrv_App.o
+ .debug_info    0x00000000       0x21 ./src/Asrv_App.o
+ .debug_abbrev  0x00000000       0x13 ./src/Asrv_App.o
+ .debug_aranges
+                0x00000000       0x18 ./src/Asrv_App.o
+ .debug_macro   0x00000000       0x2c ./src/Asrv_App.o
+ .debug_macro   0x00000000      0x8c2 ./src/Asrv_App.o
+ .debug_macro   0x00000000       0x52 ./src/Asrv_App.o
+ .debug_macro   0x00000000       0xa0 ./src/Asrv_App.o
+ .debug_macro   0x00000000       0x16 ./src/Asrv_App.o
+ .debug_line    0x00000000       0xb9 ./src/Asrv_App.o
+ .debug_str     0x00000000     0x2b17 ./src/Asrv_App.o
+ .comment       0x00000000       0xa1 ./src/Asrv_App.o
+ .ARM.attributes
+                0x00000000       0x32 ./src/Asrv_App.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/LPUART_S32K11x.o
+ .text          0x00000000        0x0 ./src/LPUART_S32K11x.o
+ .data          0x00000000        0x0 ./src/LPUART_S32K11x.o
+ .bss           0x00000000        0x0 ./src/LPUART_S32K11x.o
+ .text.LPUART0_receive_and_echo_char
+                0x00000000       0x2a ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000      0x8c2 ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000       0x52 ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000       0xa0 ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000       0x16 ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000       0x5e ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000      0x185 ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000      0x147 ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000       0x28 ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000       0x10 ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000       0x22 ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000       0x16 ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000       0x9d ./src/LPUART_S32K11x.o
+ .debug_macro   0x00000000     0xc7f2 ./src/LPUART_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes_S32K11x.o
+ .text          0x00000000        0x0 ./src/clocks_and_modes_S32K11x.o
+ .data          0x00000000        0x0 ./src/clocks_and_modes_S32K11x.o
+ .bss           0x00000000        0x0 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000      0x8c2 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000       0x52 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000       0xa0 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000       0x16 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000       0x10 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000       0x73 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000       0x16 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000       0x5e ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000      0x185 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000      0x147 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000       0x9d ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000       0x10 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000      0x15b ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000       0x28 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000       0x58 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000     0xc7f2 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000      0x9c9 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x00000000       0x22 ./src/clocks_and_modes_S32K11x.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .debug_macro   0x00000000      0x8c2 ./src/main.o
+ .debug_macro   0x00000000       0x52 ./src/main.o
+ .debug_macro   0x00000000       0xa0 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x5e ./src/main.o
+ .debug_macro   0x00000000      0x185 ./src/main.o
+ .debug_macro   0x00000000      0x147 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x28 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x9d ./src/main.o
+ .debug_macro   0x00000000      0x1af ./src/main.o
+ .debug_macro   0x00000000     0xc7f2 ./src/main.o
+ .text          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+ .data          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+ .bss           0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+ .text._Exit    0x00000000        0x8 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+ .text          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+ .data          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+ .bss           0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+ .text          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+ .data          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+ .bss           0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+ .text          0x00000000      0x114 c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000000       0x20 c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+ .data          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+ .bss           0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+ .bss.__dso_handle
+                0x00000000        0x4 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+ .text          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .data          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .bss           0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .text.__register_global_object
+                0x00000000       0x14 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .text.__cxa_atexit
+                0x00000000       0x38 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .text.__aeabi_atexit
+                0x00000000        0xe C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .text.__register_atexit
+                0x00000000        0xc C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_curr_func
+                0x00000000        0x4 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_funcs
+                0x00000000      0x300 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .text          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+ .data          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+ .bss           0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+ .text.__flush_cache
+                0x00000000        0x2 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+ .text          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+ .data          0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+ .bss           0x00000000        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x000000c0         xr
+m_flash_config   0x00000400         0x00000010         xr
+m_text           0x00000410         0x0003fbf0         xr
+m_data           0x20000000         0x000030c0         rw
+m_data_2         0x200030c0         0x00002740         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+LOAD ./Project_Settings/Startup_Code/startup.o
+LOAD ./Project_Settings/Startup_Code/startup_S32K118.o
+LOAD ./Project_Settings/Startup_Code/system_S32K118.o
+LOAD ./src/Asrv_App.o
+LOAD ./src/LPUART_S32K11x.o
+LOAD ./src/clocks_and_modes_S32K11x.o
+LOAD ./src/main.o
+START GROUP
+LOAD C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a
+LOAD C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libm.a
+LOAD c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a
+LOAD C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a
+LOAD C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libnoio.a
+END GROUP
+LOAD C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+                0x00000200                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x200
+                0x00000200                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x200
+                0x000000c0                M_VECTOR_RAM_SIZE = DEFINED (__flash_vector_table__)?0x0:0xc0
+
+.interrupts     0x00000000       0xc0
+                0x00000000                __VECTOR_TABLE = .
+                0x00000000                __interrupts_start__ = .
+                0x00000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./Project_Settings/Startup_Code/startup_S32K118.o
+                0x00000000                __isr_vector
+                0x000000c0                __interrupts_end__ = .
+                0x000000c0                . = ALIGN (0x4)
+
+.flash_config   0x00000400       0x10
+                0x00000400                . = ALIGN (0x4)
+ *(.FlashConfig)
+ .FlashConfig   0x00000400       0x10 ./Project_Settings/Startup_Code/startup_S32K118.o
+                0x00000410                . = ALIGN (0x4)
+
+.text           0x00000410      0x9f0
+                0x00000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000410       0x60 ./Project_Settings/Startup_Code/startup_S32K118.o
+                0x00000410                Reset_Handler
+                0x0000046c                SysTick_Handler
+                0x0000046c                ERM_fault_IRQHandler
+                0x0000046c                PendSV_Handler
+                0x0000046c                NMI_Handler
+                0x0000046c                DMA2_IRQHandler
+                0x0000046c                LPIT0_IRQHandler
+                0x0000046c                ADC0_IRQHandler
+                0x0000046c                FTM0_Ovf_Reload_IRQHandler
+                0x0000046c                FTM1_Ch0_7_IRQHandler
+                0x0000046c                DefaultISR
+                0x0000046c                SCG_CMU_LVD_LVWSCG_IRQHandler
+                0x0000046c                FTM0_Ch0_7_IRQHandler
+                0x0000046c                RTC_IRQHandler
+                0x0000046c                PDB0_IRQHandler
+                0x0000046c                HardFault_Handler
+                0x0000046c                CAN0_ORed_Err_Wakeup_IRQHandler
+                0x0000046c                LPSPI1_IRQHandler
+                0x0000046c                LPUART1_RxTx_IRQHandler
+                0x0000046c                RTC_Seconds_IRQHandler
+                0x0000046c                CAN0_ORed_0_31_MB_IRQHandler
+                0x0000046c                FTFC_IRQHandler
+                0x0000046c                LPSPI0_IRQHandler
+                0x0000046c                FTM0_Fault_IRQHandler
+                0x0000046c                SVC_Handler
+                0x0000046c                RCM_IRQHandler
+                0x0000046c                DMA3_IRQHandler
+                0x0000046c                DMA0_IRQHandler
+                0x0000046c                FTM1_Fault_IRQHandler
+                0x0000046c                DMA_Error_IRQHandler
+                0x0000046c                LPI2C0_Master_Slave_IRQHandler
+                0x0000046c                LPUART0_RxTx_IRQHandler
+                0x0000046c                WDOG_IRQHandler
+                0x0000046c                LPTMR0_IRQHandler
+                0x0000046c                FTM1_Ovf_Reload_IRQHandler
+                0x0000046c                CMP0_IRQHandler
+                0x0000046c                PORT_IRQHandler
+                0x0000046c                FLEXIO_IRQHandler
+                0x0000046c                DMA1_IRQHandler
+ .text          0x00000470      0x1d4 c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_divsi3.o)
+                0x00000470                __divsi3
+                0x00000470                __aeabi_idiv
+                0x0000063c                __aeabi_idivmod
+ .text          0x00000644        0x4 c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+                0x00000644                __aeabi_idiv0
+                0x00000644                __aeabi_ldiv0
+ *(.text*)
+ .text.__thumb_startup
+                0x00000648       0x3c C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+                0x00000648                _start
+                0x00000648                __thumb_startup
+ .text.init_data_bss
+                0x00000684      0x128 ./Project_Settings/Startup_Code/startup.o
+                0x00000684                init_data_bss
+ .text.SystemInit
+                0x000007ac       0x30 ./Project_Settings/Startup_Code/system_S32K118.o
+                0x000007ac                SystemInit
+ .text.LPUART0_init
+                0x000007dc       0x54 ./src/LPUART_S32K11x.o
+                0x000007dc                LPUART0_init
+ .text.PORT_init_RX_TX
+                0x00000830       0x44 ./src/LPUART_S32K11x.o
+                0x00000830                PORT_init_RX_TX
+ .text.check_uart_errors
+                0x00000874       0x78 ./src/LPUART_S32K11x.o
+                0x00000874                check_uart_errors
+ .text.LPUART0_transmit_char
+                0x000008ec       0x30 ./src/LPUART_S32K11x.o
+                0x000008ec                LPUART0_transmit_char
+ .text.LPUART0_transmit_string
+                0x0000091c       0x36 ./src/LPUART_S32K11x.o
+                0x0000091c                LPUART0_transmit_string
+ *fill*         0x00000952        0x2 
+ .text.LPUART0_receive_char
+                0x00000954       0x34 ./src/LPUART_S32K11x.o
+                0x00000954                LPUART0_receive_char
+ .text.LPUART0_receive_string
+                0x00000988       0x8c ./src/LPUART_S32K11x.o
+                0x00000988                LPUART0_receive_string
+ .text.LPUART0_echo_string
+                0x00000a14       0x3e ./src/LPUART_S32K11x.o
+                0x00000a14                LPUART0_echo_string
+ *fill*         0x00000a52        0x2 
+ .text.SOSC_init_40MHz
+                0x00000a54       0x54 ./src/clocks_and_modes_S32K11x.o
+                0x00000a54                SOSC_init_40MHz
+ .text.RUN_mode_48MHz
+                0x00000aa8       0x40 ./src/clocks_and_modes_S32K11x.o
+                0x00000aa8                RUN_mode_48MHz
+ .text.WDOG_disable
+                0x00000ae8       0x2c ./src/main.o
+                0x00000ae8                WDOG_disable
+ .text.software_delay
+                0x00000b14       0x1e ./src/main.o
+                0x00000b14                software_delay
+ *fill*         0x00000b32        0x2 
+ .text.LPUART0_data_available
+                0x00000b34       0x20 ./src/main.o
+                0x00000b34                LPUART0_data_available
+ .text.LPUART0_wait_for_transmission_complete
+                0x00000b54       0x1c ./src/main.o
+                0x00000b54                LPUART0_wait_for_transmission_complete
+ .text.main     0x00000b70       0x70 ./src/main.o
+                0x00000b70                main
+ .text.exit     0x00000be0       0x38 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+                0x00000be0                exit
+ .text.memset   0x00000c18        0xc C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+                0x00000c18                memset
+ .text.__fill_mem
+                0x00000c24       0x88 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+                0x00000c24                __fill_mem
+ .text.__init_cpp
+                0x00000cac       0x48 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+                0x00000cac                __init_cpp
+ .text.__fini_cpp
+                0x00000cf4       0x34 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+                0x00000cf4                __fini_cpp
+ .text.__destroy_global_chain
+                0x00000d28       0x1c C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+                0x00000d28                __destroy_global_chain
+ .text.__init_registers
+                0x00000d44       0x1c C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+                0x00000d44                __init_registers
+ .text.__init_user
+                0x00000d60        0x4 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+                0x00000d60                __init_user
+ .text.__init_hardware
+                0x00000d64        0x8 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+                0x00000d64                __init_hardware
+ .text.__copy_rom_section
+                0x00000d6c       0x48 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+                0x00000d6c                __copy_rom_section
+ .text.__copy_rom_sections_to_ram
+                0x00000db4       0x2c C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+                0x00000db4                __copy_rom_sections_to_ram
+ .text._ExitProcess
+                0x00000de0        0x2 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+                0x00000de0                _ExitProcess
+ *(.rodata)
+ *fill*         0x00000de2        0x2 
+ .rodata        0x00000de4       0x19 ./src/main.o
+ *(.rodata*)
+ *(.glue_7)
+ .glue_7        0x00000dfd        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000dfd        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x00000e00                . = ALIGN (0x4)
+ *fill*         0x00000dfd        0x3 
+
+.vfp11_veneer   0x00000e00        0x0
+ .vfp11_veneer  0x00000e00        0x0 linker stubs
+
+.v4_bx          0x00000e00        0x0
+ .v4_bx         0x00000e00        0x0 linker stubs
+
+.iplt           0x00000e00        0x0
+ .iplt          0x00000e00        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+
+.rel.dyn        0x00000e00        0x0
+ .rel.iplt      0x00000e00        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00000e00        0x0
+                0x00000e00                __exidx_start = .
+ *(.ARM.exidx*)
+                0x00000e00                __exidx_end = .
+
+.ctors          0x00000e00        0x0
+                0x00000e00                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x00000e00                __CTOR_END__ = .
+
+.dtors          0x00000e00        0x0
+                0x00000e00                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00000e00                __DTOR_END__ = .
+
+.preinit_array  0x00000e00        0x0
+                0x00000e00                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x00000e00                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00000e00        0x0
+                0x00000e00                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x00000e00                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00000e00        0x0
+                0x00000e00                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+                0x00000e00                PROVIDE (__fini_array_end, .)
+                0x00000e00                __etext = .
+                0x00000e00                __DATA_ROM = .
+
+.interrupts_ram
+                0x20000000       0xc0
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __VECTOR_RAM__ = .
+                0x20000000                __RAM_START = .
+                0x20000000                __interrupts_ram_start__ = .
+ *(.m_interrupts_ram)
+                0x200000c0                . = (. + M_VECTOR_RAM_SIZE)
+ *fill*         0x20000000       0xc0 
+                0x200000c0                . = ALIGN (0x4)
+                0x200000c0                __interrupts_ram_end__ = .
+                0x20000000                __VECTOR_RAM = DEFINED (__flash_vector_table__)?ORIGIN (m_interrupts):__VECTOR_RAM__
+                0x000000c0                __RAM_VECTOR_TABLE_SIZE = DEFINED (__flash_vector_table__)?0x0:(__interrupts_ram_end__ - __interrupts_ram_start__)
+
+.data           0x200000c0        0x0 load address 0x00000e00
+                0x200000c0                . = ALIGN (0x4)
+                0x200000c0                __DATA_RAM = .
+                0x200000c0                __data_start__ = .
+ *(.data)
+ *(.data*)
+ *(.jcr*)
+                0x200000c0                . = ALIGN (0x4)
+                0x200000c0                __data_end__ = .
+                0x00000e00                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x00000e00                __CODE_ROM = __DATA_END
+
+.igot.plt       0x200000c0        0x0
+ .igot.plt      0x200000c0        0x0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+
+.code           0x200000c0        0x0 load address 0x00000e00
+                0x200000c0                . = ALIGN (0x4)
+                0x200000c0                __CODE_RAM = .
+                0x200000c0                __code_start__ = .
+                0x200000c0                __code_ram_start__ = .
+ *(.code_ram)
+                0x200000c0                . = ALIGN (0x4)
+                0x200000c0                __code_end__ = .
+                0x200000c0                __code_ram_end__ = .
+                0x00000e00                __CODE_END = (__CODE_ROM + (__code_end__ - __code_start__))
+                0x00000e00                __CUSTOM_ROM = __CODE_END
+
+.customSectionBlock
+                0x200030c0        0x0 load address 0x00000e00
+                0x200030c0                __customSection_start__ = .
+ *(.customSection)
+                0x200030c0                __customSection_end__ = .
+                0x00000e00                __CUSTOM_END = (__CUSTOM_ROM + (__customSection_end__ - __customSection_start__))
+
+.bss            0x200030c0       0x14
+                0x200030c0                . = ALIGN (0x4)
+                0x200030c0                __BSS_START = .
+                0x200030c0                __bss_start__ = .
+ *(.bss)
+ *(.bss*)
+ .bss.argv      0x200030c0        0x4 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+ .bss.stop      0x200030c4        0x1 ./src/main.o
+                0x200030c4                stop
+ *fill*         0x200030c5        0x3 
+ .bss.__console_exit
+                0x200030c8        0x4 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+                0x200030c8                __console_exit
+ .bss.__stdio_exit
+                0x200030cc        0x4 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+                0x200030cc                __stdio_exit
+ .bss.__global_destructor_chain
+                0x200030d0        0x4 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+                0x200030d0                __global_destructor_chain
+ *(COMMON)
+                0x200030d4                . = ALIGN (0x4)
+                0x200030d4                __bss_end__ = .
+                0x200030d4                __BSS_END = .
+
+.heap           0x200030d4      0x204
+                0x200030d8                . = ALIGN (0x8)
+ *fill*         0x200030d4        0x4 
+                0x200030d8                __end__ = .
+                0x200030d8                __heap_start__ = .
+                [!provide]                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                [!provide]                PROVIDE (__end, .)
+                0x200030d8                __HeapBase = .
+                0x200032d8                . = (. + HEAP_SIZE)
+ *fill*         0x200030d8      0x200 
+                0x200032d8                __HeapLimit = .
+                0x200032d8                __heap_limit = .
+                0x200032d8                __heap_end__ = .
+                0x20005800                __StackTop = (ORIGIN (m_data_2) + LENGTH (m_data_2))
+                0x20005600                __StackLimit = (__StackTop - STACK_SIZE)
+                [!provide]                PROVIDE (__stack, __StackTop)
+                0x20005800                __RAM_END = __StackTop
+
+.stack          0x20005600      0x200
+                0x20005600                . = ALIGN (0x8)
+                0x20005600                __stack_start__ = .
+                0x20005800                . = (. + STACK_SIZE)
+ *fill*         0x20005600      0x200 
+                0x20005800                __stack_end__ = .
+                0x200030c0                __START_BSS = __BSS_START
+                0x200030d4                __END_BSS = __BSS_END
+                0x20005800                __SP_INIT = __StackTop
+
+.ARM.attributes
+                0x00000000       0x2f
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x31 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+ .ARM.attributes
+                0x00000031       0x32 ./Project_Settings/Startup_Code/startup.o
+ .ARM.attributes
+                0x00000063       0x1b ./Project_Settings/Startup_Code/startup_S32K118.o
+ .ARM.attributes
+                0x0000007e       0x32 ./Project_Settings/Startup_Code/system_S32K118.o
+ .ARM.attributes
+                0x000000b0       0x32 ./src/LPUART_S32K11x.o
+ .ARM.attributes
+                0x000000e2       0x32 ./src/clocks_and_modes_S32K11x.o
+ .ARM.attributes
+                0x00000114       0x32 ./src/main.o
+ .ARM.attributes
+                0x00000146       0x31 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+ .ARM.attributes
+                0x00000177       0x31 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+ .ARM.attributes
+                0x000001a8       0x31 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+ .ARM.attributes
+                0x000001d9       0x1e c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000001f7       0x1e c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000215       0x31 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+ .ARM.attributes
+                0x00000246       0x31 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .ARM.attributes
+                0x00000277       0x31 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+ .ARM.attributes
+                0x000002a8       0x31 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data_2 overflowed with stack and heap)
+OUTPUT(S32K118_Project_LPUART.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x1d18
+ .debug_info    0x00000000      0x126 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+ .debug_info    0x00000126      0x3be ./Project_Settings/Startup_Code/startup.o
+ .debug_info    0x000004e4       0x26 ./Project_Settings/Startup_Code/startup_S32K118.o
+ .debug_info    0x0000050a      0x3df ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_info    0x000008e9      0x3e8 ./src/LPUART_S32K11x.o
+ .debug_info    0x00000cd1      0x21f ./src/clocks_and_modes_S32K11x.o
+ .debug_info    0x00000ef0      0x4a0 ./src/main.o
+ .debug_info    0x00001390      0x127 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+ .debug_info    0x000014b7       0xec C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+ .debug_info    0x000015a3      0x137 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+ .debug_info    0x000016da      0x13f C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_info    0x00001819      0x2aa C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .debug_info    0x00001ac3      0x207 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+ .debug_info    0x00001cca       0x4e C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+
+.debug_abbrev   0x00000000      0xbf7
+ .debug_abbrev  0x00000000       0xbe C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+ .debug_abbrev  0x000000be      0x108 ./Project_Settings/Startup_Code/startup.o
+ .debug_abbrev  0x000001c6       0x14 ./Project_Settings/Startup_Code/startup_S32K118.o
+ .debug_abbrev  0x000001da      0x13f ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_abbrev  0x00000319      0x13d ./src/LPUART_S32K11x.o
+ .debug_abbrev  0x00000456       0xb9 ./src/clocks_and_modes_S32K11x.o
+ .debug_abbrev  0x0000050f      0x192 ./src/main.o
+ .debug_abbrev  0x000006a1       0x98 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+ .debug_abbrev  0x00000739       0x62 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+ .debug_abbrev  0x0000079b       0x78 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+ .debug_abbrev  0x00000813       0xae C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_abbrev  0x000008c1      0x1c0 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .debug_abbrev  0x00000a81      0x12c C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+ .debug_abbrev  0x00000bad       0x4a C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+
+.debug_aranges  0x00000000      0x290
+ .debug_aranges
+                0x00000000       0x28 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+ .debug_aranges
+                0x00000028       0x20 ./Project_Settings/Startup_Code/startup.o
+ .debug_aranges
+                0x00000048       0x20 ./Project_Settings/Startup_Code/startup_S32K118.o
+ .debug_aranges
+                0x00000068       0x30 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_aranges
+                0x00000098       0x60 ./src/LPUART_S32K11x.o
+ .debug_aranges
+                0x000000f8       0x28 ./src/clocks_and_modes_S32K11x.o
+ .debug_aranges
+                0x00000120       0x40 ./src/main.o
+ .debug_aranges
+                0x00000160       0x28 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+ .debug_aranges
+                0x00000188       0x20 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+ .debug_aranges
+                0x000001a8       0x20 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+ .debug_aranges
+                0x000001c8       0x28 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_aranges
+                0x000001f0       0x50 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .debug_aranges
+                0x00000240       0x30 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+ .debug_aranges
+                0x00000270       0x20 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+
+.debug_line     0x00000000     0x1558
+ .debug_line    0x00000000       0x67 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+ .debug_line    0x00000067      0x2f1 ./Project_Settings/Startup_Code/startup.o
+ .debug_line    0x00000358       0x94 ./Project_Settings/Startup_Code/startup_S32K118.o
+ .debug_line    0x000003ec      0x304 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_line    0x000006f0      0x39f ./src/LPUART_S32K11x.o
+ .debug_line    0x00000a8f      0x2e8 ./src/clocks_and_modes_S32K11x.o
+ .debug_line    0x00000d77      0x394 ./src/main.o
+ .debug_line    0x0000110b       0x9e C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+ .debug_line    0x000011a9       0x90 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+ .debug_line    0x00001239       0xbf C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+ .debug_line    0x000012f8       0x68 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_line    0x00001360      0x100 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .debug_line    0x00001460       0xb5 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+ .debug_line    0x00001515       0x43 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+
+.debug_str      0x00000000    0x5a054
+ .debug_str     0x00000000      0x1a4 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+                                0x22d (size before relaxing)
+ .debug_str     0x000001a4    0x58e17 ./Project_Settings/Startup_Code/startup.o
+                              0x58f60 (size before relaxing)
+ .debug_str     0x00058fbb       0x3f ./Project_Settings/Startup_Code/startup_S32K118.o
+                                 0xbe (size before relaxing)
+ .debug_str     0x00058ffa      0x1b0 ./Project_Settings/Startup_Code/system_S32K118.o
+                              0x58cf6 (size before relaxing)
+ .debug_str     0x000591aa      0x35c ./src/LPUART_S32K11x.o
+                              0x541f7 (size before relaxing)
+ .debug_str     0x00059506       0x5e ./src/clocks_and_modes_S32K11x.o
+                              0x58bdb (size before relaxing)
+ .debug_str     0x00059564      0x65e ./src/main.o
+                              0x546ff (size before relaxing)
+ .debug_str     0x00059bc2      0x172 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+                                0x210 (size before relaxing)
+ .debug_str     0x00059d34       0x1c C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+                                0x1e8 (size before relaxing)
+ .debug_str     0x00059d50       0x2d C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+                                0x1fa (size before relaxing)
+ .debug_str     0x00059d7d      0x119 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+                                0x251 (size before relaxing)
+ .debug_str     0x00059e96      0x103 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+                                0x272 (size before relaxing)
+ .debug_str     0x00059f99       0x9a C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+                                0x1f0 (size before relaxing)
+ .debug_str     0x0005a033       0x21 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+                                0x164 (size before relaxing)
+
+.comment        0x00000000      0x11e
+ .comment       0x00000000       0x7e C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+                                 0x7f (size before relaxing)
+ .comment       0x0000007e       0xa0 ./Project_Settings/Startup_Code/startup.o
+                                 0xa1 (size before relaxing)
+ .comment       0x0000011e       0xa1 ./Project_Settings/Startup_Code/system_S32K118.o
+ .comment       0x0000011e       0xa1 ./src/LPUART_S32K11x.o
+ .comment       0x0000011e       0xa1 ./src/clocks_and_modes_S32K11x.o
+ .comment       0x0000011e       0xa1 ./src/main.o
+ .comment       0x0000011e       0x7f C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+ .comment       0x0000011e       0x7f C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+ .comment       0x0000011e       0x7f C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+ .comment       0x0000011e       0x7f C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+ .comment       0x0000011e       0x7f C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .comment       0x0000011e       0x7f C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+ .comment       0x0000011e       0x7f C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+
+.debug_frame    0x00000000      0x50c
+ .debug_frame   0x00000000       0x30 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_start.o
+ .debug_frame   0x00000030       0x30 ./Project_Settings/Startup_Code/startup.o
+ .debug_frame   0x00000060       0x6c ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_frame   0x000000cc      0x124 ./src/LPUART_S32K11x.o
+ .debug_frame   0x000001f0       0x48 ./src/clocks_and_modes_S32K11x.o
+ .debug_frame   0x00000238       0xa4 ./src/main.o
+ .debug_frame   0x000002dc       0x44 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+ .debug_frame   0x00000320       0x28 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+ .debug_frame   0x00000348       0x2c C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+ .debug_frame   0x00000374       0x20 c:/devapp/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000394       0x40 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_frame   0x000003d4       0xc4 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .debug_frame   0x00000498       0x54 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
+ .debug_frame   0x000004ec       0x20 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m/__arm_end.o
+
+.debug_ranges   0x00000000       0xc8
+ .debug_ranges  0x00000000       0x10 ./Project_Settings/Startup_Code/startup.o
+ .debug_ranges  0x00000010       0x20 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_ranges  0x00000030       0x50 ./src/LPUART_S32K11x.o
+ .debug_ranges  0x00000080       0x18 ./src/clocks_and_modes_S32K11x.o
+ .debug_ranges  0x00000098       0x30 ./src/main.o
+
+.debug_macro    0x00000000    0x1b2a8
+ .debug_macro   0x00000000       0xe3 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x000000e3      0x8c2 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x000009a5       0x52 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x000009f7       0xa0 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000a97       0x16 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000aad       0x5e ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000b0b      0x185 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000c90      0x147 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000dd7       0x9d ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000e74       0x10 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000e84      0x15b ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000fdf       0x28 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00001007       0x58 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000105f       0x10 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000106f       0x73 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x000010e2     0xc804 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000d8e6      0x9c9 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000e2af       0x22 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000e2d1       0x40 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000e311       0xe2 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x0000e3f3       0x16 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x0000e409     0xc7f2 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x0001abfb       0x22 ./Project_Settings/Startup_Code/system_S32K118.o
+ .debug_macro   0x0001ac1d      0x11e ./src/LPUART_S32K11x.o
+ .debug_macro   0x0001ad3b       0x16 ./src/LPUART_S32K11x.o
+ .debug_macro   0x0001ad51       0x16 ./src/LPUART_S32K11x.o
+ .debug_macro   0x0001ad67       0x16 ./src/LPUART_S32K11x.o
+ .debug_macro   0x0001ad7d      0x1af ./src/LPUART_S32K11x.o
+ .debug_macro   0x0001af2c       0x10 ./src/LPUART_S32K11x.o
+ .debug_macro   0x0001af3c       0xe3 ./src/clocks_and_modes_S32K11x.o
+ .debug_macro   0x0001b01f      0x17a ./src/main.o
+ .debug_macro   0x0001b199       0x1c ./src/main.o
+ .debug_macro   0x0001b1b5       0x16 ./src/main.o
+ .debug_macro   0x0001b1cb       0x8b ./src/main.o
+ .debug_macro   0x0001b256       0x22 ./src/main.o
+ .debug_macro   0x0001b278       0x10 ./src/main.o
+ .debug_macro   0x0001b288       0x20 ./src/main.o
+
+.debug_loc      0x00000000      0x5c3
+ .debug_loc     0x00000000       0x71 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(exit.o)
+ .debug_loc     0x00000071       0x6f C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(memset.o)
+ .debug_loc     0x000000e0      0x197 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\libc99.a(__filll_mem.o)
+ .debug_loc     0x00000277       0xc9 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_loc     0x00000340      0x1ad C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(__arm_eabi_init.o)
+ .debug_loc     0x000004ed       0xd6 C:/DevApp/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/arm32_ewl2/lib/thumb/v6-m\librt.a(ROMCopy.o)
